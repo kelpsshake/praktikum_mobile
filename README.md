@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/2824c335-3631-43fb-88d5-20d53dd48a8e
 ## Identitas
 1. Nama: Bunga Devina Firdaus  
 2. NIM: H1D023051  
