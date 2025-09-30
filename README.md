@@ -20,7 +20,5 @@ Demo aplikasi
 ## Tugas 3 Pertemuan 4
 Demo Aplikasi
 
-[video demo] Uploading WhatsApp Video 2025-09-30 at 22.13.20_1011ea75.mp4…
-
-
+[video demo](https://github.com/user-attachments/assets/63ea3aa4-6939-4cf2-b41a-c56b0c55df59)
 
