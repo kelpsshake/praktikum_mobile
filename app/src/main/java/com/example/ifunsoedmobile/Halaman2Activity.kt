@@ -44,6 +44,11 @@ class Halaman2Activity : AppCompatActivity() {
             it.imgIcon.setImageResource(R.drawable.ic_phone)
             it.tvLayout.setText(R.string.telepon)
         }
+
+        binding.layoutBuku.let {
+            it.imgIcon.setImageResource(R.drawable.ic_book)
+            it.tvLayout.setText(R.string.daftar_buku)
+        }
     }
 
     private fun iniListener() {
@@ -73,6 +78,11 @@ class Halaman2Activity : AppCompatActivity() {
             }
             startActivity(intent)
         }
+
+        binding.layoutBuku.root.setOnClickListener {
+            startActivity(Intent(this, DaftarBukuActivity::class.java))
+        }
+
 
         binding.btnBack.setOnClickListener {
             finish()

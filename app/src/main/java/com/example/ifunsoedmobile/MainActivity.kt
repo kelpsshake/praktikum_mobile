@@ -25,4 +25,5 @@ class MainActivity : AppCompatActivity() {
             startActivity(Intent(this, Halaman2Activity::class.java))
         }
     }
+
 }

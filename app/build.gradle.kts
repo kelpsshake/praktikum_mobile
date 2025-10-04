@@ -54,5 +54,7 @@ dependencies {
 
     implementation("com.squareup.retrofit2:retrofit:3.0.0")
     implementation("com.squareup.retrofit2:converter-gson:3.0.0")
+    implementation("com.github.bumptech.glide:glide:5.0.5")
+    implementation("com.google.android.material:material:1.12.0")
 
 }
